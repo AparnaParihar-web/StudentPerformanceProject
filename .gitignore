@@ -1,0 +1,11 @@
+.venv/
+Data/raw/
+Data/*.csv
+Data/*.xlsx
+.streamlit/
+.vscode/
+.idea/
+.env
+.env.*
+_pycache_/
+*.py[cod]
